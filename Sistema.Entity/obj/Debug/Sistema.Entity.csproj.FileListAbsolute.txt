@@ -1,0 +1,5 @@
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Entity\bin\Debug\Sistema.Entity.dll
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Entity\bin\Debug\Sistema.Entity.pdb
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Entity\obj\Debug\Sistema.Entity.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Entity\obj\Debug\Sistema.Entity.dll
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Entity\obj\Debug\Sistema.Entity.pdb

@@ -1,0 +1,11 @@
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\bin\Debug\Sistema.Model.dll
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\bin\Debug\Sistema.Model.pdb
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\bin\Debug\Sistema.Controller.dll
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\bin\Debug\Sistema.Entity.dll
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\bin\Debug\Sistema.Controller.pdb
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\bin\Debug\Sistema.Entity.pdb
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csprojAssemblyReference.cache
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\obj\Debug\Sistema.Model.csproj.CopyComplete
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\obj\Debug\Sistema.Model.dll
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\obj\Debug\Sistema.Model.pdb
+C:\Users\Guilherme\source\repos\Sistema\Sistema.Model\bin\Debug\Sistema.Controller.dll.config
